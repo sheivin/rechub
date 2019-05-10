@@ -1,0 +1,6 @@
+framework module Pods_rechubios {
+  umbrella header "Pods-rechubios-umbrella.h"
+
+  export *
+  module * { export * }
+}

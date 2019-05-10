@@ -1,0 +1,6 @@
+5/6 10:29 AM - something + 16 minutes in - user authentication on server side written.
+5/7 1:51 PM - 1 hr 30 minutes in - app side development on login, signup started. understanding delegates took time.
+5/7 7:30 PM - 2 hr 12 minutes in - start: code for login, signup done. starting thought and work on recommendations now.
+5/7 11:56 PM - 3 hr 58 minutes in - nothing new really. most challening session starting now.
+5/8 11:05 AM - 6 minutes in - setting up messaging models. push to finish preliminary version
+
