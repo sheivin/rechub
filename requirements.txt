@@ -1,4 +1,4 @@
 django==2.0.4
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 channels==2.1.0
 
